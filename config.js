@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Bấm vô tốn 10k',
     btnNo: 'Bấm vô nhận 100k',
     question:'Hmmm',
-    btnReply: 'Loz',
+    btnReply: 'Lozzz',
     reply: 'Yêu thì yêu mà không yêu thì CÚT <33333333',
     mess: '😘',
     messDesc: 'Tối nay 7h đi ks nhá <3.',
